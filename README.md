@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Sakshhi 👋
 
-<!--
-**DesaiSakshi1/DesaiSakshi1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI/ML Engineer** · MCA in Data Analytics & Machine Learning · Pune, India
+*I build AI that reads, reasons and reviews.*
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Currently building
+- **CodeReview Copilot**: an agentic AI that reviews pull requests and posts comments on its own
+- **COREP Reporting Assistant**: a RAG assistant for regulatory reporting
+- **AutoEDA**: an AI-powered exploratory data analysis web app
+
+### 🛠 Tools I use
+<img src="https://skillicons.dev/icons?i=python,fastapi,react,ts,docker,tensorflow,sklearn,postgres" />
+
+LangChain · ChromaDB · OpenAI · RAG · MCP
+
+### 🌿 Fun fact
+I've published research on AI-enabled plant disease detection.
+
+### 📫 Let's connect
+[LinkedIn] www.linkedin.com/in/sakshhi-desai-b32bb4240 · [Email] Sakshhi.s.desai5@gmail.com · **Open to AI/ML and full-stack AI roles**
