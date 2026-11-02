@@ -1,6 +1,6 @@
 # Hi, I'm Sakshhi 👋
 
-**AI/ML Engineer** · MCA in Data Analytics & Machine Learning · Pune, India
+**AI/ML Engineer** · MCA in Data Analytics & Machine Learning · Mumbai, India
 *I build AI that reads, reasons and reviews.*
 
 ---
